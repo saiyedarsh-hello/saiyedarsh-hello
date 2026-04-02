@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there 
+I'm Arsh, a Software Engineer in India.
+I'm Currently a Engineering student with a lot of curiosity.
+I dive deep into techincal to understand and build.
 
-<!--
-**saiyedarsh-hello/saiyedarsh-hello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My main tech stack is React.js , JavaScript , tailwind. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+**Hobbies** :
+ -item Tennis 
+ -item Chess 
+ -item Reading 
+ 
+  
+
