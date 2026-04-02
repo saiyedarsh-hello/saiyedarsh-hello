@@ -8,9 +8,9 @@ My main tech stack is React.js , JavaScript , tailwind.
 
 
 **Hobbies** :
- -item Tennis 
- -item Chess 
- -item Reading 
+  *Item 1 Tennis 
+  *Item 2 Chess 
+  
  
   
 
